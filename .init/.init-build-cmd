@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/uirevamp-2024-10805-f0b3b658/frontend_ui_redesign"
+}
